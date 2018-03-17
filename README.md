@@ -28,6 +28,6 @@
 
 ## 7. Unzip to destination
 
-`unzip CocoMS.zip
+`unzip CocoMS.zip`
 
 
